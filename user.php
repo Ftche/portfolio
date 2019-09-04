@@ -49,7 +49,7 @@ The above copyright notice and this permission notice shall be included in all c
         Tip 1: You can change the color of the sidebar using: data-color="blue | green | orange | red | yellow"
     -->
       <div class="logo">
-        <a href="/" class="simple-text logo-mini">
+        <a href="" class="simple-text logo-mini">
           <div class="logo-image-small">
             <img src="./assets/img/F1.png">
           </div>
