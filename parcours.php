@@ -21,26 +21,25 @@ The above copyright notice and this permission notice shall be included in all c
 <!DOCTYPE html>
 <html lang="en">
 
-  <head>
-    <meta charset="utf-8" />
-    <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/apple-icon.png">
-    <link rel="icon" type="image/png" href="./assets/img/favicon.png">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <title>
-      TCHEWA Franklin • Développeur web / Architecte logiciel
-    </title>
-    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no'
-      name='viewport' />
-    <!--     Fonts    -->
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
-    <!-- CSS Files -->
-    <link href="./assets/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="./assets/css/paper-dashboard.css?v=2.0.0" rel="stylesheet" />
-    <!-- CSS Just for demo purpose, don't include it in your project -->
-    <link href="./assets/demo/demo.css" rel="stylesheet" />
-    <!--     icons     -->
-    <link rel="stylesheet" href="./assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
-  </head>
+<head>
+  <meta charset="utf-8" />
+  <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/apple-icon.png">
+  <link rel="icon" type="image/png" href="./assets/img/favicon.png">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <title>
+    TCHEWA Franklin • Développeur web / Architecte logiciel
+  </title>
+  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+  <!--     Fonts    -->
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
+  <!-- CSS Files -->
+  <link href="./assets/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="./assets/css/paper-dashboard.css?v=2.0.0" rel="stylesheet" />
+  <!-- CSS Just for demo purpose, don't include it in your project -->
+  <link href="./assets/demo/demo.css" rel="stylesheet" />
+  <!--     icons     -->
+  <link rel="stylesheet" href="./assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
 
 <body class="">
   <div class="wrapper ">
@@ -51,7 +50,7 @@ The above copyright notice and this permission notice shall be included in all c
       <div class="logo">
         <a href="/" class="simple-text logo-mini">
           <div class="logo-image-small">
-            <img src="./assets/img/frank.jpg">
+            <img src="./assets/img/F1.png">
           </div>
         </a>
         <a href="/" class="simple-text logo-normal">
@@ -81,13 +80,13 @@ The above copyright notice and this permission notice shall be included in all c
               <p>Localisation</p>
             </a>
           </li>
-          <li >
-              <a href="./user.php">
-                <i class="nc-icon nc-support-17"></i>
-                <p>Services</p>
-              </a>
-            </li>
-            <!-- <li >
+          <li>
+            <a href="./user.php">
+              <i class="nc-icon nc-support-17"></i>
+              <p>Services</p>
+            </a>
+          </li>
+          <!-- <li >
               <a href="./tables.php">
                 <i class="nc-icon nc-tile-56"></i>
                 <p>Projets</p>
@@ -110,8 +109,7 @@ The above copyright notice and this permission notice shall be included in all c
             </div>
             <a class="navbar-brand" href="#pablo">PORTFOLIO</a>
           </div>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
-            aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-bar navbar-kebab"></span>
             <span class="navbar-toggler-bar navbar-kebab"></span>
             <span class="navbar-toggler-bar navbar-kebab"></span>
@@ -119,32 +117,32 @@ The above copyright notice and this permission notice shall be included in all c
           <div class="collapse navbar-collapse justify-content-end" id="navigation">
             <ul class="navbar-nav">
               <li>
-                <a href="#">
+                <a href="https://twitter.com/FrankCheChe">
                   <i class="fa fa-twitter" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
-                  <i class="fa fa-facebook-square" style=" margin-right: 4px;"></i>
+                <a href="https://github.com/Ftche">
+                  <i class="fa fa-github" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.pinterest.fr/contacttche/">
                   <i class="fa fa-pinterest" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://dribbble.com/FTche">
                   <i class="fa fa-dribbble" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/franklin-tchewa-3ab750110/">
                   <i class="fa fa-linkedin" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.instagram.com/tchewa_franklin/">
                   <i class="fa fa-instagram" style=" margin-right: 4px;"></i>
                 </a>
               </li>
@@ -222,109 +220,109 @@ The above copyright notice and this permission notice shall be included in all c
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-6 col-sm-6 ">
-                      <div class="card card-stats ">
-                        <div class="card-body ">
-                          <div class="row">
-                            <div class="col-5 col-md-4">
-                              <div class="icon-big text-center icon-warning">
-                                <i class="nc-icon nc-cloud-upload-94 text-success"></i>
-                              </div>
+                    <div class="card card-stats ">
+                      <div class="card-body ">
+                        <div class="row">
+                          <div class="col-5 col-md-4">
+                            <div class="icon-big text-center icon-warning">
+                              <i class="nc-icon nc-cloud-upload-94 text-success"></i>
                             </div>
-                            <div class="col-7 col-md-8">
-                              <div class="numbers">
-                                <p class="card-category">Responsable Web - Stage Pro</p>
-                                <p class="card-title">IUC - SEED
-                                </p>
-                              </div>
+                          </div>
+                          <div class="col-7 col-md-8">
+                            <div class="numbers">
+                              <p class="card-category">Responsable Web - Stage Pro</p>
+                              <p class="card-title">IUC - SEED
+                              </p>
                             </div>
                           </div>
                         </div>
-                        <div class="card-footer ">
-                          <hr>
-                          <div class="stats">
-                            <i class="fa fa-clock-o"></i>Novembre 2015 - Juin 2016
-                          </div>
+                      </div>
+                      <div class="card-footer ">
+                        <hr>
+                        <div class="stats">
+                          <i class="fa fa-clock-o"></i>Novembre 2015 - Juin 2016
                         </div>
                       </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6 ">
-                        <div class="card card-stats ">
-                          <div class="card-body ">
-                            <div class="row">
-                              <div class="col-5 col-md-4">
-                                <div class="icon-big text-center icon-warning">
-                                  <i class="nc-icon nc-cloud-upload-94 text-success"></i>
-                                </div>
-                              </div>
-                              <div class="col-7 col-md-8">
-                                <div class="numbers">
-                                  <p class="card-category">Développeur Web - Stage Acad</p>
-                                  <p class="card-title">IUC - SEED
-                                  </p>
-                                </div>
-                              </div>
+                  </div>
+                  <div class="col-lg-4 col-md-6 col-sm-6 ">
+                    <div class="card card-stats ">
+                      <div class="card-body ">
+                        <div class="row">
+                          <div class="col-5 col-md-4">
+                            <div class="icon-big text-center icon-warning">
+                              <i class="nc-icon nc-cloud-upload-94 text-success"></i>
                             </div>
                           </div>
-                          <div class="card-footer ">
-                            <hr>
-                            <div class="stats">
-                              <i class="fa fa-clock-o"></i>Juin 2015 - Août 2015
+                          <div class="col-7 col-md-8">
+                            <div class="numbers">
+                              <p class="card-category">Développeur Web - Stage Acad</p>
+                              <p class="card-title">IUC - SEED
+                              </p>
                             </div>
                           </div>
                         </div>
                       </div>
-                      <div class="col-lg-4 col-md-6 col-sm-6 ">
-                          <div class="card card-stats ">
-                            <div class="card-body ">
-                              <div class="row">
-                                <div class="col-5 col-md-4">
-                                  <div class="icon-big text-center icon-warning">
-                                    <i class="nc-icon nc-palette text-success"></i>
-                                  </div>
-                                </div>
-                                <div class="col-7 col-md-8">
-                                  <div class="numbers">
-                                    <p class="card-category">Graphiste de production - Stage Pro</p>
-                                    <p class="card-title">ESP - YAOUNDE
-                                    </p>
-                                  </div>
-                                </div>
-                              </div>
+                      <div class="card-footer ">
+                        <hr>
+                        <div class="stats">
+                          <i class="fa fa-clock-o"></i>Juin 2015 - Août 2015
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-4 col-md-6 col-sm-6 ">
+                    <div class="card card-stats ">
+                      <div class="card-body ">
+                        <div class="row">
+                          <div class="col-5 col-md-4">
+                            <div class="icon-big text-center icon-warning">
+                              <i class="nc-icon nc-palette text-success"></i>
                             </div>
-                            <div class="card-footer ">
-                              <hr>
-                              <div class="stats">
-                                <i class="fa fa-clock-o"></i>Avril 2013 - Mai 2013
-                              </div>
+                          </div>
+                          <div class="col-7 col-md-8">
+                            <div class="numbers">
+                              <p class="card-category">Graphiste de production - Stage Pro</p>
+                              <p class="card-title">ESP - YAOUNDE
+                              </p>
                             </div>
                           </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-6 ">
-                            <div class="card card-stats ">
-                              <div class="card-body ">
-                                <div class="row">
-                                  <div class="col-5 col-md-4">
-                                    <div class="icon-big text-center icon-warning">
-                                      <i class="nc-icon nc-palette text-success"></i>
-                                    </div>
-                                  </div>
-                                  <div class="col-7 col-md-8">
-                                    <div class="numbers">
-                                      <p class="card-category">Graphiste de production - Stage Acad</p>
-                                      <p class="card-title">ESP - YAOUNDE
-                                      </p>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="card-footer ">
-                                <hr>
-                                <div class="stats">
-                                  <i class="fa fa-clock-o"></i>Août 2012 - Octobre 2012
-                                </div>
-                              </div>
+                      </div>
+                      <div class="card-footer ">
+                        <hr>
+                        <div class="stats">
+                          <i class="fa fa-clock-o"></i>Avril 2013 - Mai 2013
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-4 col-md-6 col-sm-6 ">
+                    <div class="card card-stats ">
+                      <div class="card-body ">
+                        <div class="row">
+                          <div class="col-5 col-md-4">
+                            <div class="icon-big text-center icon-warning">
+                              <i class="nc-icon nc-palette text-success"></i>
                             </div>
                           </div>
+                          <div class="col-7 col-md-8">
+                            <div class="numbers">
+                              <p class="card-category">Graphiste de production - Stage Acad</p>
+                              <p class="card-title">ESP - YAOUNDE
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="card-footer ">
+                        <hr>
+                        <div class="stats">
+                          <i class="fa fa-clock-o"></i>Août 2012 - Octobre 2012
+                        </div>
+                      </div>
+                    </div>
+                  </div>
 
                 </div>
               </div>
@@ -348,8 +346,7 @@ The above copyright notice and this permission notice shall be included in all c
                 <div class="card mb-12">
                   <div class="row no-gutters">
                     <div class="col-md-1">
-                      <img src="./assets/img/logo_univ_ngaoundere.jpg" class="img-thumbnail " alt="IME"
-                        style="width: 100px;">
+                      <img src="./assets/img/logo_univ_ngaoundere.jpg" class="img-thumbnail " alt="IME" style="width: 100px;">
                     </div>
                     <div class="col-md-8">
                       <div class="card-body">
@@ -368,8 +365,7 @@ The above copyright notice and this permission notice shall be included in all c
                   </div>
                   <div class="row no-gutters">
                     <div class="col-md-1">
-                      <img src="./assets/img/logo_univ_dschang.jpg" class="img-thumbnail " alt="IUC"
-                        style="width: 100px;">
+                      <img src="./assets/img/logo_univ_dschang.jpg" class="img-thumbnail " alt="IUC" style="width: 100px;">
                     </div>
                     <div class="col-md-8">
                       <div class="card-body">
@@ -407,8 +403,7 @@ The above copyright notice and this permission notice shall be included in all c
                   </div>
                   <div class="row no-gutters">
                     <div class="col-md-1">
-                      <img src="./assets/img/LOGO_Pagne_vert-min.png" class="img-thumbnail " alt="MINEFOP"
-                        style="width: 100px;">
+                      <img src="./assets/img/LOGO_Pagne_vert-min.png" class="img-thumbnail " alt="MINEFOP" style="width: 100px;">
                     </div>
                     <div class="col-md-8">
                       <div class="card-body">
@@ -467,7 +462,7 @@ The above copyright notice and this permission notice shall be included in all c
   <!-- Paper Dashboard DEMO methods, don't include it in your project! -->
   <script src="./assets/demo/demo.js"></script>
   <script>
-    $(document).ready(function () {
+    $(document).ready(function() {
       // Javascript method's body can be found in assets/assets-for-demo/js/demo.js
       demo.initChartsPages();
     });

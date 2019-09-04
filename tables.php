@@ -29,8 +29,7 @@ The above copyright notice and this permission notice shall be included in all c
   <title>
     TCHEWA Franklin • Développeur web / Architecte logiciel
   </title>
-  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no'
-    name='viewport' />
+  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
   <!--     Fonts and icons     -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
@@ -50,7 +49,7 @@ The above copyright notice and this permission notice shall be included in all c
       <div class="logo">
         <a href="/" class="simple-text logo-mini">
           <div class="logo-image-small">
-            <img src="./assets/img/frank.jpg">
+            <img src="./assets/img/F1.png">
           </div>
         </a>
         <a href="/" class="simple-text logo-normal">
@@ -109,8 +108,7 @@ The above copyright notice and this permission notice shall be included in all c
             </div>
             <a class="navbar-brand" href="#pablo">PORTFOLIO</a>
           </div>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
-            aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-bar navbar-kebab"></span>
             <span class="navbar-toggler-bar navbar-kebab"></span>
             <span class="navbar-toggler-bar navbar-kebab"></span>
@@ -118,32 +116,32 @@ The above copyright notice and this permission notice shall be included in all c
           <div class="collapse navbar-collapse justify-content-end" id="navigation">
             <ul class="navbar-nav">
               <li>
-                <a href="#">
+                <a href="https://twitter.com/FrankCheChe">
                   <i class="fa fa-twitter" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
-                  <i class="fa fa-facebook-square" style=" margin-right: 4px;"></i>
+                <a href="https://github.com/Ftche">
+                  <i class="fa fa-github" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.pinterest.fr/contacttche/">
                   <i class="fa fa-pinterest" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://dribbble.com/FTche">
                   <i class="fa fa-dribbble" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/franklin-tchewa-3ab750110/">
                   <i class="fa fa-linkedin" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.instagram.com/tchewa_franklin/">
                   <i class="fa fa-instagram" style=" margin-right: 4px;"></i>
                 </a>
               </li>
@@ -157,7 +155,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 </div> -->
       <div class="content">
-        
+
       </div>
     </div>
     <footer class="footer footer-black  footer-white ">

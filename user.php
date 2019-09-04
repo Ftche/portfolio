@@ -51,7 +51,7 @@ The above copyright notice and this permission notice shall be included in all c
       <div class="logo">
         <a href="/" class="simple-text logo-mini">
           <div class="logo-image-small">
-            <img src="./assets/img/frank.jpg">
+            <img src="./assets/img/F1.png">
           </div>
         </a>
         <a href="/" class="simple-text logo-normal">
@@ -117,34 +117,34 @@ The above copyright notice and this permission notice shall be included in all c
             <span class="navbar-toggler-bar navbar-kebab"></span>
           </button>
           <div class="collapse navbar-collapse justify-content-end" id="navigation">
-            <ul class="navbar-nav">
+          <ul class="navbar-nav">
               <li>
-                <a href="#">
+                <a href="https://twitter.com/FrankCheChe">
                   <i class="fa fa-twitter" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
-                  <i class="fa fa-facebook-square" style=" margin-right: 4px;"></i>
+                <a href="https://github.com/Ftche">
+                  <i class="fa fa-github" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.pinterest.fr/contacttche/">
                   <i class="fa fa-pinterest" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://dribbble.com/FTche">
                   <i class="fa fa-dribbble" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/franklin-tchewa-3ab750110/">
                   <i class="fa fa-linkedin" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.instagram.com/tchewa_franklin/">
                   <i class="fa fa-instagram" style=" margin-right: 4px;"></i>
                 </a>
               </li>

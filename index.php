@@ -50,7 +50,7 @@ The above copyright notice and this permission notice shall be included in all c
       <div class="logo">
         <a href="/" class="simple-text logo-mini">
           <div class="logo-image-small">
-            <img src="./assets/img/frank.jpg">
+            <img src="./assets/img/F1.png">
           </div>
         </a>
         <a href="/" class="simple-text logo-normal">
@@ -117,32 +117,32 @@ The above copyright notice and this permission notice shall be included in all c
           <div class="collapse navbar-collapse justify-content-end" id="navigation">
             <ul class="navbar-nav">
               <li>
-                <a href="#">
+                <a href="https://twitter.com/FrankCheChe">
                   <i class="fa fa-twitter" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
-                  <i class="fa fa-facebook-square" style=" margin-right: 4px;"></i>
+                <a href="https://github.com/Ftche">
+                  <i class="fa fa-github" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.pinterest.fr/contacttche/">
                   <i class="fa fa-pinterest" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://dribbble.com/FTche">
                   <i class="fa fa-dribbble" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/franklin-tchewa-3ab750110/">
                   <i class="fa fa-linkedin" style=" margin-right: 4px;"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.instagram.com/tchewa_franklin/">
                   <i class="fa fa-instagram" style=" margin-right: 4px;"></i>
                 </a>
               </li>
@@ -189,22 +189,22 @@ The above copyright notice and this permission notice shall be included in all c
                     <div class="col-lg-6 col-md-6 col-6 ml-auto mr-auto">
                       <h5>
                         <div class="btn-wrapper profile">
-                          <a target="_blank" href="https://twitter.com/gabriel_thecode" data-toggle="tooltip" data-original-title="Suivez-moi Twitter">
+                          <a target="_blank" href="https://twitter.com/FrankCheChe" data-toggle="tooltip" data-original-title="Suivez-moi Twitter">
                             <i class="fa  fa-twitter"></i>
                           </a>
-                          <a target="_blank" href="https://www.pinterest.com/gabriel_thecode" data-toggle="tooltip" data-original-title="Suivez-moi Pinterest">
+                          <a target="_blank" href="https://www.pinterest.fr/contacttche/" data-toggle="tooltip" data-original-title="Suivez-moi Pinterest">
                             <i class="fa  fa-pinterest"></i>
                           </a>
-                          <a target="_blank" href="https://github.com/gabriel-thecode" data-toggle="tooltip" data-original-title="Suivez-moi sur Github">
+                          <a target="_blank" href="https://github.com/Ftche" data-toggle="tooltip" data-original-title="Suivez-moi sur Github">
                             <i class="fa  fa-github"></i>
                           </a>
-                          <a target="_blank" href="https://www.linkedin.com/in/tekombo-gabriel/" data-toggle="tooltip" data-original-title="Rejoignez mon cercle professionnel">
+                          <a target="_blank" href="https://www.linkedin.com/in/franklin-tchewa-3ab750110/" data-toggle="tooltip" data-original-title="Rejoignez mon cercle professionnel">
                             <i class="fa  fa-linkedin"></i>
                           </a>
-                          <a target="_blank" href="https://www.instagram.com/gabriel__the__code/" data-toggle="tooltip" data-original-title="Suivez-moi sur Instagram">
+                          <a target="_blank" href="https://www.instagram.com/tchewa_franklin/" data-toggle="tooltip" data-original-title="Suivez-moi sur Instagram">
                             <i class="fa  fa-instagram"></i>
                           </a>
-                          <a target="_blank" href="https://www.instagram.com/gabriel__the__code/" data-toggle="tooltip" data-original-title="Suivez-moi sur Dribble">
+                          <a target="_blank" href="https://dribbble.com/FTche" data-toggle="tooltip" data-original-title="Suivez-moi sur Dribble">
                             <i class="fa  fa-dribbble"></i>
                           </a>
                         </div>
