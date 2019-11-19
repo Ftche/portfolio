@@ -262,6 +262,8 @@ The above copyright notice and this permission notice shall be included in all c
   <script src="./assets/js/paper-dashboard.min.js?v=2.0.0" type="text/javascript"></script>
   <!-- Paper Dashboard DEMO methods, don't include it in your project! -->
   <script src="./assets/demo/demo.js"></script>
+  <!-- Instant Page ! -->
+  <script src="./assets/js/instantpage-3.0.0.js" type="module" defer></script>
 </body>
 
 </html>

@@ -467,6 +467,8 @@ The above copyright notice and this permission notice shall be included in all c
       demo.initChartsPages();
     });
   </script>
+    <!-- Instant Page ! -->
+    <script src="./assets/js/instantpage-3.0.0.js" type="module" defer></script>
 </body>
 
 </html>
