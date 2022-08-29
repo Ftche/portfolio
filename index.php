@@ -3,7 +3,7 @@
 ?>
 <!--
 =========================================================
- Paper Dashboard 2 - v2.0.0
+ Paper Dashboard 2 - v2.0.0 // still waiting for an update
 =========================================================
 
  Product Page: https://www.creative-tim.com/product/paper-dashboard-2
